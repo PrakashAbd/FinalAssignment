@@ -16,6 +16,7 @@ public class LoginController {
 	{
 		System.out.println("Hi");
 		return "index";
+		Hello
 	}
 
 	@ResponseBody
